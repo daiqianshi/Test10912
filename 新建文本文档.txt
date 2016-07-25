@@ -1,0 +1,5 @@
+mvn archetype:generate
+-DgroupId=com.hand 
+-DartifactId=shidaiqian10912 
+-DarchetypeArtifactId=maven-archetype-quickstart 
+-DinteractiveMode=false
