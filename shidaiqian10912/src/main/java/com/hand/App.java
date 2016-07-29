@@ -12,6 +12,6 @@ public class App
         print();
     }
     public static void print(){
-    	System.out.println("ʯ��Ǭ");
+    	System.out.println("测试是否乱码");
     }
 }
