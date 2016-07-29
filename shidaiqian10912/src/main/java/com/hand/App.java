@@ -12,6 +12,6 @@ public class App
         print();
     }
     public static void print(){
-    	System.out.println("我是打印方法");
+    	System.out.println("石代乾");
     }
 }
