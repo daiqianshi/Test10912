@@ -9,5 +9,9 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+        print();
+    }
+    public static void print(){
+    	System.out.println("我是打印方法");
     }
 }

@@ -1,5 +1,7 @@
-mvn archetype:generate
--DgroupId=com.hand 
--DartifactId=shidaiqian10912 
--DarchetypeArtifactId=maven-archetype-quickstart 
--DinteractiveMode=false
+mvn archetype:generate -DgroupId=com.hand -DartifactId=shidaiqian10912 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false -DarchetypeCatalog=local
+
+
+mvn archetype:generate -DgroupId=com.hand -DartifactId=fistWeb10912 -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false -DarchetypeCatalog=local
+
+
+mvn exec:java -Dexec.mainClass="com.hand.App" -Dexec.args="arg0 arg1 arg2"
