@@ -5,3 +5,5 @@ mvn archetype:generate -DgroupId=com.hand -DartifactId=fistWeb10912 -DarchetypeA
 
 
 mvn exec:java -Dexec.mainClass="com.hand.App" -Dexec.args="arg0 arg1 arg2"
+
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
